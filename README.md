@@ -1,2 +1,2 @@
-# cinemaTicketDemo
-Cinema Ticket Demo 
+# sliderDemo
+A simple slider with JavaScript
